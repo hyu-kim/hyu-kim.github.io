@@ -7,7 +7,7 @@ subtitle: <a href="https://cheme.mit.edu">ChemE</a> @ MIT.
 profile:
   align: right
   image: lafayette2.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>NH, 2021 (credit: JK)</p>
 
