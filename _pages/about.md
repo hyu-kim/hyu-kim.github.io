@@ -6,10 +6,10 @@ subtitle: <a href="https://cheme.mit.edu">ChemE</a> @ MIT.
 
 profile:
   align: right
-  image: lafayette2.jpg
+  image: Chicago.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>NH, 2021 (credit: JK)</p>
+    <p>IL, 2023 (credit: JK)</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -23,4 +23,4 @@ Having broad interests in biomanufacturing and data analytics, I intend to lever
 
 I first got trained for the scientific discoveries at Seoul National University and previously worked for a biotech company as a Data Science intern.  I was formerly a Sergeant (veteran) in Marine Corps, South Korea.
 
-The research activities were funded by US DOE's Bioenergy Research Program, MIT Laboratory for Energy and Microsystems Innovation, PrognomiQ Inc., South Korea's Ministry of Science and ICT, and Kwanjeong Educational Foundation.
+The research activities were funded by US Food and Drug Administration, US Department of Energy, PrognomiQ Inc., South Korea's Ministry of Science and ICT, and Kwanjeong Educational Foundation.
